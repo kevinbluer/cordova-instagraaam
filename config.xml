@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Cordova</name>
+    <name>Instagraaam</name>
 
     <description>
-        An empty PhoneGap / Cordova container
+        An Instagraaam clone.
     </description>
 
     <author href="http://bluer.com" email="kevin@bluer.com">
